@@ -3,4 +3,4 @@ This is a very basic example of Python Automation script (Python 3.5.1) that all
 Automate : zipgo.in
 
 # Run the file
-python zipgo_example.py
+$~python zipgo_webautomate.py
